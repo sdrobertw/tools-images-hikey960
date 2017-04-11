@@ -4,10 +4,10 @@ This sections shows how to install all base firmware components for the HiKey960
 
 ***
 
-- Step 1: Material and Preperations
-- Step 2: Dependencies
-- Step 3: Enter recovery/forced-download mode on HiKey960
-- Step 4: Flash Base Firmware
+- **Step 1**: Material and Preperations
+- **Step 2**: Dependencies
+- **Step 3**: Enter recovery/forced-download mode on HiKey960
+- **Step 4**: Flash Base Firmware
 
 ## Step 1: Materials and Preperations
 
