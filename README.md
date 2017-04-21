@@ -4,13 +4,13 @@ This sections shows how to install all base firmware components for the HiKey960
 
 ***
 
-- **Step 1**: Material and Preperations
+- **Step 1**: Material and Preparations
 - **Step 2**: Dependencies
 - **Step 3**: Enter recovery/forced-download mode on HiKey960
 - **Step 4**: Flash Base Firmware
 - **Step 5**: Explore other modes, proceed to OS installation
 
-## Step 1: Materials and Preperations
+## Step 1: Materials and Preparations
 
 **Materials**
 
@@ -18,7 +18,7 @@ This sections shows how to install all base firmware components for the HiKey960
 - USB Type-A (Host machine) to USB Type-C (96Boards) cable
 - [96Boards compliant power supply](http://www.96boards.org/product/power/)
 
-**Preperations**
+**Preparations**
 
 There are two versions of HiKey960: v1 and v2. One important difference you should know is: v1 is using Jumper (J2001), while v2 is using DIP switch (SW2201). Both are located in the bottom side of board.
 
