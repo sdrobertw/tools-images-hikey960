@@ -35,7 +35,7 @@ Jumper Pin 5-6 = DIP switch 3                     |
 
 - To boot into fastboot mode everytime set switch 1 & 3 to ON state
   and switch 2 to OFF state.
-- To boot into fastboot mode at every alternate rebooot set switch 1
+- To boot into fastboot mode at every alternate reboot set switch 1
   to ON and switch 2 & 3 to OFF state.
 - To boot into recovery mode set switch 1 & 2 to ON state and switch 3
   to OFF state
